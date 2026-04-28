@@ -1,2 +1,7 @@
-# demo-steticadental-consultorio
-Demo web para steticadental consultorio — diseñada por eterlab.
+# steticadental consultorio
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
